@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A092BCE7-8BB5-4EC5-A074-A1948E7B511F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>postcard</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>45277C517282D136D456A99E670D69F786EF3BAE</key>
+		<string>https://github.com/giwamoto/postcard.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>postcard.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>45277C517282D136D456A99E670D69F786EF3BAE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/giwamoto/postcard.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>45277C517282D136D456A99E670D69F786EF3BAE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>45277C517282D136D456A99E670D69F786EF3BAE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>postcard</string>
+		</dict>
+	</array>
+</dict>
+</plist>
